@@ -1,5 +1,5 @@
 ---
-title: Hubs, Nodes and Networks: A New History of British Digital Art
+title: "Hubs, Nodes and Networks: A New History of British Digital Art"
 layout: essay
 order: 200
 ---
