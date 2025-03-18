@@ -6,6 +6,8 @@ order: 200
 
 ***Hubs, Nodes and Networks: A New History of British Digital Art***
 
+{% figure 'test-image' %}
+
 *Hubs, Nodes and Networks: A New History of British Digital Art*, examines the spaces and people that enabled computational and digital art in the twentieth and twenty first century with the aim of representing the collective effort that has enabled this field of art to succeed.
 
 Traditionally, art history has represented artistic movements through the lens of masterpieces and their creators. Less research has centred on the back-of-house elements that have enabled creative individuals to develop their work. One such element are the meeting spaces for artistic communities, which have always been fundamental to their development. Historic examples include the nightclub Cabaret Voltaire, in Zurich, which was pivotal for Dada in the 1910s, and the writer Gertrude Stein’s Parisian apartment, a key place for Modernism in Europe during the first half of the twentieth century. This research project, titled *Hubs, Nodes and Networks: A New History of British Digital Art,* re-examines the relevance of such spaces to the fostering of computational and digital art in contemporary culture, as well as the people behind them, with the aim of representing the collective effort that has enabled this field of art to succeed. 
