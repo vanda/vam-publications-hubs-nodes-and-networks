@@ -7,7 +7,7 @@ figure_list:
     alt: Black rectangular artwork with fluffy edges
 
   - id: test-image
-    src: test-img.jpg
+    src: "test-img.jpg"
     caption: "This is a test"
     credit: Siobhan
     alt: Testing 123
