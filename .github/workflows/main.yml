@@ -16,23 +16,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         - name: Setup Project
-          uses: actions/checkout@v4
+          uses: actions/checkout@85e6279cec87321a52edac9c87bce653a07cf6c2
 
         - name: Log in
           run: |
-               git config --global user.email ${{ github.event.pusher.email }}
-               git config --global user.name ${{ github.event.pusher.name }}
+               git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+               git config --global user.name "${{ github.actor }}"
         
         - name: Install Node
           uses: actions/setup-node@v3
           with:
             node-version: '18'
-            #cache: 'npm'
-            #cache-dependency-path: package-lock.json
+
+        - name: Cache Global npm (for Quire CLI)
+          uses: actions/cache@v3
+          with:
+            path: ~/.npm-global
+            key: quire-global-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+            restore-keys: |
+              quire-global-${{ runner.os }}-
+
+        - name: Configure npm Global Path
+          run: |
+            npm config set prefix ~/.npm-global
+            echo "$HOME/.npm-global/bin" >> $GITHUB_PATH
         
         - name: Install Quire
           run: |
-            npm install --global @thegetty/quire-cli@1.0.0-rc.11
+            npm list -g @thegetty/quire-cli || npm install --global @thegetty/quire-cli@1.0.0-rc.11
 
         - name: Check Quire Version
           run: |
@@ -77,19 +88,13 @@ jobs:
         - name: Log project dependencies
           run: |
             cat ./publication/package-lock.json > ./package-lock.json
-        
-        #- name: Save dependencies for caching
-        #  uses: EndBug/add-and-commit@v9
-        #  with:
-        #    add: './package-lock.json'
-        #    message: 'Updating node dependencies from previous build'
 
         - name: Check website files
           run: |
             ls -la ./publication/_site/
 
         - name: Deploy
-          uses: peaceiris/actions-gh-pages@v3
+          uses: peaceiris/actions-gh-pages@373f7f263a76c20808c831209c920827a82a2847
           with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
             publish_dir: ./publication/_site
