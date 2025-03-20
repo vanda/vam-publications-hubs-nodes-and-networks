@@ -65,7 +65,7 @@ jobs:
         - name: Replace starter files with content files
           run: |
             cp ./content/spiral-overlay.png ./publication/content/_assets/images/
-            #cp ./content/static-cover.jpg ./publication/content/_assets/images/
+            cp ./content/static-cover.jpg ./publication/content/_assets/images/
             cp -r ./content/_assets/images/* ./publication/content/_assets/images/
             cp ./content/figures.yaml ./publication/content/_data/
             cp ./content/publication.yaml ./publication/content/_data/
