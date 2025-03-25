@@ -3,6 +3,7 @@ title: "Coda"
 layout: essay
 order: 1400
 ---
+Hello
 
 A history of any artistic movement can be read through the spaces that fostered it, and for digital art this is especially true. Inherently breaking new technical ground and operating outside traditional markets, the development of the UK digital art landscape has been reliant on a series of hubs, nodes and networks. Through a series of interviews with 16 artists and curators, this essay looks at the who, what, and where that allowed a national scene to thrive from the 1990s to the present. 
 
