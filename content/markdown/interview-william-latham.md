@@ -2,7 +2,7 @@
 title: "Interview: William Latham"
 layout: essay
 order: 800
-
+---
 William Latham (b. 1961, United Kingdom) is a visual artist, computer scientist and computer games designer who applies evolutionary theory to art making. He is well known for his work *Mutator* (1989–present), an evolutionary software system that generates variations of organic life in 3D forms. Early iterations of *Mutator* can be found in his works created at IBM – *Colid Horn (Twist 5*) (1987), *Tube 1* (1987) and *Twister 1* (1988) – which are part of the V&A’s Digital Art Collection. 
 
 …………….
