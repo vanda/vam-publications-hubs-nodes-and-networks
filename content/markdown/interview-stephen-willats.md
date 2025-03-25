@@ -1,7 +1,7 @@
 ---
 title: "Interview: Stephen Willats"
 layout: essay
-order: 1400
+order: 1200
 
 Stephen Willats (b. 1943, United Kingdom) is a multidisciplinary artist who combines in his work cybernetics, advertising research, learning and communications theory, and computer technology. Since the early 1960s, Willats has located his work in individual and social behaviours and through collaborative and participatory artworks has sought to generate societal change. 
 
