@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://vanda.github.io/vam-publications-nodes-and-networks/'
+url: 'https://vanda.github.io/vam-publications-hubs-nodes-and-networks/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -47,11 +47,11 @@ publisher:
 contributor_as_it_appears: 
 
 contributor:
-  - id: jsmith
+  - id: parreola
     type: primary
-    first_name: John
-    last_name: Smith
-    title: Test contributor
+    first_name: Pita
+    last_name: Arreola
+    title: Curator, Digital Art
     affiliation: Victoria and Albert Museum
   - id: 
     type: 
