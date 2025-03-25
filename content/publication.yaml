@@ -9,14 +9,14 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://vanda.github.io/vam-publications-nodes-and-networks/'
+url: 'https://vanda.github.io/vam-publications-hubs-nodes-and-networks/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: Nodes and Networks
-subtitle: 
+title: Hubs, Nodes and Networks
+subtitle: A New History of British Digital Art
 reading_line:
-short_title:
+short_title: Hubs, Nodes and Networks
 
 description:
   one_line:
@@ -47,11 +47,11 @@ publisher:
 contributor_as_it_appears: 
 
 contributor:
-  - id: jsmith
+  - id: parreoloa
     type: primary
-    first_name: John
-    last_name: Smith
-    title: Test contributor
+    first_name: Pita
+    last_name: Arreoloa
+    title: Curator, Digital Art
     affiliation: Victoria and Albert Museum
   - id: 
     type: 
