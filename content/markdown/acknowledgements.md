@@ -1,5 +1,5 @@
 ---
-title: "Interview: Ernest Edmonds"
+title: "Acknowledgements"
 layout: essay
 order: 1600
 ---
