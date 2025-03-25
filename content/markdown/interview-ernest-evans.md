@@ -1,7 +1,7 @@
 ---
 title: "Interview: Ernest Edmonds"
 layout: essay
-order: 200
+order: 600
 ---
 
 Ernest Edmonds (b. 1942, United Kingdom) is an artist recognized as an early innovative figure of computer art. Underpinned by the Concrete and Constructivist traditions, his practice investigates how human perception and cognitive processes evolve over time within exchanges between humans and technological systems. Edmonds’ interactive work *Shaping Forms 14/07/2007* (2007) demonstrates these ideas and is part of the V&A’s Digital Art Collection. 
