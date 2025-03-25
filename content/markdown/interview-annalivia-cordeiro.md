@@ -4,6 +4,8 @@ layout: essay
 order: 400
 ---
 
+Analivia Cordeiro (b. 1954, Brazil) is an artist, dancer and choreographer known for her trailblazing video and computer art. At only 19 years old, Cordeiro programmed the computer dance *M3X3* (1973)* which was presented for the first time at the ‘INTERACT. Man: Machine: Society’ exhibition and conference, organized by the Computer Arts Society for the Edinburgh International Festival. This work and supporting materials are part of the V&A’s Digital Art Collection.
+
 **Pita Arreola:** Reflecting on the beginning of your career, could you elaborate on your earliest encounters with computer art and how you came to incorporate certain methodologies and technologies into your practice?  
 
 **Analivia Cordeiro:** When I presented my work *M3x3* in 1973, I was only 19 years old. I did not have any formal training or academic links to the field of technology. I learned how to program computers through books. More importantly, I was a professional dancer. I have been dancing since I was seven years old. This has given me a complex understanding of the vocabulary and language of body movements. 
