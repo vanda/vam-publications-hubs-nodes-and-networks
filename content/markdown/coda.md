@@ -1,3 +1,9 @@
+---
+title: "Coda"
+layout: essay
+order: 1400
+---
+
 A history of any artistic movement can be read through the spaces that fostered it, and for digital art this is especially true. Inherently breaking new technical ground and operating outside traditional markets, the development of the UK digital art landscape has been reliant on a series of hubs, nodes and networks. Through a series of interviews with 16 artists and curators, this essay looks at the who, what, and where that allowed a national scene to thrive from the 1990s to the present. 
 
 From grassroot instigators to institutional representatives, the individuals interviewed for this report present through their answers a picture of their personal experience within the field. At the same time it is important to highlight that while many of them are attached to specific art practices or movements, such as net art or media art, they do not necessarily call themselves digital artists or curators because the term is broad<sup>[^2]</sup>. The umbrella term ‘digital art’ is applied here in response to the V&A’s Digital Art Collection, on which this research is based, and in order to bring together practitioners from different artistic backgrounds. The interviewees were Heath Bunting, Ruth Catlow (Furtherfield), Alison Craighead (Thomson & Craighead), Sofia Crespo, Nina Davies, Marc Garrett (Furtherfield), Libby Heaney, Zaiba Jabbar (Hervisions), Keiken, Lawrence Lek, Irini Papadimitriou, Anna Ridler, Erica Scourti, Jon Thomson (Thomson & Craighead), Nye Thompson and Kay Watson (Serpentine Galleries). 
