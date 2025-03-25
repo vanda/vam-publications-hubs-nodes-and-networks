@@ -1,4 +1,8 @@
-**INTERVIEW | JOHN LIFTON**
+---
+title: "Interview: John Lifton"
+layout: essay
+order: 1000
+---
 
 John Lifton (b. 1944, United Kingdom) is an artist and theorist whose work explores the relationships between art, science, the environment and technology. In 1968, he co-founded the Institute for Research in Art and Technology in London (IRAT, also known as the New Arts Lab), a pivotal space for the avant-garde art scene that enabled experimentation in film, video, sculpture and literature. 
 
