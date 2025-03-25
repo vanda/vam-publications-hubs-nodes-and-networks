@@ -1,3 +1,9 @@
+---
+title: "Interview: Annalivia Cordeiro"
+layout: essay
+order: 400
+---
+
 **Pita Arreola:** Reflecting on the beginning of your career, could you elaborate on your earliest encounters with computer art and how you came to incorporate certain methodologies and technologies into your practice?  
 
 **Analivia Cordeiro:** When I presented my work *M3x3* in 1973, I was only 19 years old. I did not have any formal training or academic links to the field of technology. I learned how to program computers through books. More importantly, I was a professional dancer. I have been dancing since I was seven years old. This has given me a complex understanding of the vocabulary and language of body movements. 
