@@ -6,8 +6,6 @@ order: 600
 
 Ernest Edmonds (b. 1942, United Kingdom) is an artist recognized as an early innovative figure of computer art. Underpinned by the Concrete and Constructivist traditions, his practice investigates how human perception and cognitive processes evolve over time within exchanges between humans and technological systems. Edmonds’ interactive work *Shaping Forms 14/07/2007* (2007) demonstrates these ideas and is part of the V&A’s Digital Art Collection. 
 
-………
-
 **Pita Arreola:** Reflecting on the beginning of your career, could you elaborate on your earliest encounters with computer art and how you came to incorporate certain methodologies and technologies into your practice?  
 
 **Ernest Edmonds:** I decided that I wanted to be an artist when I was a schoolboy, but the art schools of that day were not helpful for what I wanted to do. My friends that had gone to art school were not very enthusiastic about it. Long story short, I decided to do a mathematics degree which I found easy, so I had lots of time to paint. When I studied at the University of Leicester, the head of mathematics was a brilliant logician, so I got into logic. He introduced me to philosophy, and I ended up interested in the philosophy of mathematics and went to do a PhD in logic at the University of Nottingham, submitted in 1973. The branch of logic that I was concerned with was computation, so that helped me understand the logical underpinning of computer science and Alan Turing’s work. 

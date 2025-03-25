@@ -6,8 +6,6 @@ order: 1000
 
 John Lifton (b. 1944, United Kingdom) is an artist and theorist whose work explores the relationships between art, science, the environment and technology. In 1968, he co-founded the Institute for Research in Art and Technology in London (IRAT, also known as the New Arts Lab), a pivotal space for the avant-garde art scene that enabled experimentation in film, video, sculpture and literature. 
 
-……………….
-
 **Pita Arreola:** Reflecting on the beginning of your career, could you elaborate on your earliest encounters with computer art and how you came to incorporate certain methodologies and technologies into your practice?
 
 **John Lifton:** Growing up, I had a particular disposition towards analogue and mechanical tools, but to properly answer your question I have to go back to my mother’s influence. She was born in Argentina, of British parents. My grandfather had migrated with his family from Devonshire as a teenager. He was a very bright guy and got a job on the building of a railroad system from scratch with a contract underwritten by the British and Argentine governments. He ended up doing surveys to determine where the lines would go and contributing towards the design of the stations, depots, even writing the timetables. I think my mother wanted me to be like him. I saw him as a Renaissance man of the First Machine Age.

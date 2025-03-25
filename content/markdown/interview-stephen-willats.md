@@ -5,8 +5,6 @@ order: 1200
 ---
 Stephen Willats (b. 1943, United Kingdom) is a multidisciplinary artist who combines in his work cybernetics, advertising research, learning and communications theory, and computer technology. Since the early 1960s, Willats has located his work in individual and social behaviours and through collaborative and participatory artworks has sought to generate societal change. 
 
-……………..
-
 **Pita Arreola:** Reflecting on the beginning of your career, could you elaborate on your earliest encounters with computer art and how you came to incorporate certain methodologies and technologies into your practice? 
 
 **Stephen Willats:** Foremost, I never thought of my [creative] life as a career. I always saw myself as an artist pursuing ideas. The idea that there would be structure in terms of a career never occurred to me. Now, to answer your question, we have to go back to 1958 when the world I was living in was changing remarkably quickly from the world that my parents lived in. Suddenly, there was a whole generation rebelling against the restrictions and conventions of earlier generations. All the barriers began to break down. People started to feel mobile and to think that a new vision of a world could be transformed into reality. These changes led to avant-garde ideas becoming prevalent at that time in the art world across Europe and the UK. From the point of view of the artist, we had the idea that a work of art needed to move forward and push things further.

@@ -18,4 +18,4 @@ The first prototype of the data-visualization model addresses the period from th
 
 This research project was developed between January 2023 and June 2024 at the V&A with the support of the Paul Mellon Centre for Studies in British Art.
 
-[^1]: Metzger, Gustav ed. *PAGE,* bulletin of the Computer Arts Society. no. 1 (April 1969).
+[^1]: Metzger, Gustav ed. *PAGE*, bulletin of the Computer Arts Society. no. 1 (April 1969).
