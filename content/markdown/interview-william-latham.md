@@ -19,9 +19,13 @@ In 1982, I went to study a master’s degree at the Royal College of Art (RCA), 
 
 **WL:** Yes, that was a big event. Arlette Bonne, who was over from the USA, was running a workshop at the Museum of Modern Art Oxford [now Modern Art Oxford]. She got us walking, tracing out choreographic paths, in particular moving in geometric patterns. As the group walked along these paths, you would see patterns that emerged. After that, I took those ideas into drawings, which reflected these choreographic paths in 2D and then I pulled them up into 3D. In this way, they became three dimensional objects that were rule-based but inspired by choreography. Until that point, I'd been doing paintings in the style of Francis Bacon. I threw all that away, and then became much more interested in Russian Constructivism and rule-based art. Kenneth Martin taught me there; he was applying dice throwing to generate a drawing system. I had an immediate affinity with the beautiful drawings he produced. 
 
+{% 'image_01_kenneth_martin' %}
+
 **PA:** Some of those ideas can be seen in your work *Spiral Balsa Wood Structure* (1982), which is part of the V&A collection.
 
 **WL**: That work links directly back to that dance class. It is a record of the dance patterns in 3D. That was a key moment of change for my work, and I stuck with that track until I got to the RCA. Then I met a new set of lecturers: artists like Patrick Heron, John Hoyland and Alistair Grant. They were quite challenging, and they pushed me to do something novel again. 
+
+{% 'image_02_william_latham' %}
 
 **PA:** During your time at the RCA, was the work of your peers influential or were people there dedicated to other types of art? And were there connections between the school and industry at that time?
 
@@ -31,6 +35,8 @@ From about 1985 to ‘87, I was doing a PhD with John Lansdown and Keith Critchl
 
 In 1987, I got an invitation from IBM that I followed up with a call. By chance, I got the nuclear physicist Peter Quarendon on the phone and he invited me to IBM in Winchester to show my drawings to Stephen Todd and five other engineers. I went there with my 10-foot drawings and explained the rules that I was applying. Three months later, they invited me to be an artist in residence with the programming team using new software coded in the Energy System Modelling Environment (ESME) and ray tracing. In a Renaissance fashion, IBM created a scientific centre where people from different disciplines worked together. I was at IBM Winchester for six years and during that time I lost contact with the London art scene. But I started to work more internationally. I went abroad to the conferences organized by the Special Interest Group on Computer Graphics and Interactive Techniques (SIGGRAPH) and IMAGINA in Monte Carlo, which was an annual festival and big hub of computer graphics in that region. I had the solo exhibition ‘Empire of Form’ in 1990 at the O Art Museum, in Tokyo, where I spent time with the artist Yoichiro Kawaguchi. At that time, there were no PCs around, so artists had to operate in the corporate space to gain access to big machines. Companies were looking for people who would generate research and enhance their reputation by showing off the capability of their hardware and software. 
 
+{% 'image_03_william_latham' %}
+
 **PA:** Since early on in your career, you have taken part in different events and exhibitions such as the ‘State-of-the-art in Computer Animation’ conference (1986) organized by BCS Computer Graphics & Display Group and CAS, at The Royal College of Art, and ‘The Conquest of Form’ exhibition at Arnolfini gallery, in Bristol (1988–9). 
 
 Could you tell us about the events that were both memorable and important in establishing the digital art scene that your practice originates from, or that further raised the profile of your community of practice? 
@@ -38,6 +44,8 @@ Could you tell us about the events that were both memorable and important in est
 **WL:** SIGGRAPH was a big influence. Film companies premiered feature films at the conferences. People like Jinn Blinn, Alan Nolte Milton, Manuel Brock, Ken Perlin and Yoichiro Kawaguchi were presenting papers there. And it had an art show running in parallel to the conference. With IBM backing me, I was able to attend every year. In 1989, I showed my 35mm film *A Sequence from the Evolution of Form*. These events helped me to gain international recognition and to connect with incredible innovators whose technology is still used today. 
 
 The catch was that as soon as you got involved with technology and corporations, the art world did not like it. My work was increasing in popularity during the early 1990s and being shown in the scientific domain, at the Natural History Museum, in London, and the Deutsches Museum, in Munich. At that time, there was a lot of enmity between the art world and the computer graphics scene. Not like now – they really did not like computer art at all. 
+
+{% 'image_04_william_latham' %}
 
 **PA:** Around the period these events took place, what specific vocabulary was being used to describe digital art? 
 
@@ -61,6 +69,8 @@ Paolozzi, who I mentioned earlier, had a significant impact on me when he was my
 
 Outside of the UK, I should also mention Frédéric Migayrou, Deputy Director of the Centre Pompidou, in Paris, and Anna Frants, Director of CYFEST: International Media Art Festival, which is hosted in a different city every year.
 
+{% 'image_05_william_latham' %}
+
 **PA:** Throughout your career, you have been part of groups and social formations that have existed within and beyond the UK, contributing to the development of the digital arts. For example, CAS and the computing community at Goldsmiths. Could you expand on these and other digital art communities in the UK and globally that you belong to, which have been influential to the development of your practice?
 
 **WL:** Cyber was a key counter-culture movement. When I finished at IBM, my audience was not mainstream, it was formed by people who were going to raves, dancing to music and watching my work. All my videos had been bootlegged and were projected in huge garages and factories. This is why I went from IBM to the entertainment industry where I worked with different record labels and music bands, like the famous Scottish psychedelic band The Shamen. After that, Warner Brothers approached me to do art inspired by organic life. Then I drifted into the video game industry for almost 10 years and ended up directing a big studio of around 70 people where we created games that at the time were visually quite cutting-edge. 
@@ -71,6 +81,8 @@ In 2004, Mick Grierson, Janis Jefferies and Frederic Fol Leymarie formed the Dig
 
 Regarding these digital communities, Middlesex Polytechnic was a hub for computer art in the 1990s. John Lansdown and Paul Brown were involved, and I worked there in the early days. The Polytechnic had equipment and hardware like the Quantel Paintbox. Leicester Polytechnic [now De Montfort University] was another cluster with Ernest Edmonds and Sean Clark. Both Brown and Edmonds were influenced by the Systems art group which was formed in London during the 1970s. Another interesting cluster was the National Centre for Computer Animation at Bournemouth University with Peter Comninos and John Vince where they were doing work with film and computer graphics. Gareth Edwards, who studied at the RCA with me, became part of that group. 
 
+{% 'image_06_william_latham' %}
+
 **PA:** As a practitioner with expertise in the field of artificial evolutionary systems, could you outline some of the key technologies and tools that have made your practice possible?    
 
 **WL:** I have had the luxury of having access to custom software, which is really important because it gives the work a different look. Some artists are using Unreal or Photoshop and you can spot the aesthetics; it is the same with programs like Midjourney or DALL-E. That is the reason why I have always pushed on using customized technology. In the early days, I did work for the BBC using BBC BASIC and BBC microcomputers. I used Fortran 77 for the work I developed when studying at Oxford.
@@ -78,6 +90,8 @@ Regarding these digital communities, Middlesex Polytechnic was a hub for compute
 When I was at IBM, we were using proprietary software, and a language called Extensible Solid Modelling Editor (ESME). There was also WINSOM, a Constructive Solid Geometry (CSG) modelling package which allowed you to do Boolean operators where you could take a sphere and subtract a cube from it in a precise way similar to carving. The forms are very defined because you utilize spatial subdivisions instead of polygons, and the cuts are applied to individual pixels. Chris Briscoe and John Vince’s PICASSO interactive graphics modelling program was very good for handcrafting during the 1980s. 
 
 Historically, I have tended to only use the software I have developed with my collaborators. At the moment, I am using tools like Geiger pixels where you can take an image and increase its resolution. Virtual reality (VR) is very important for my work. We mainly use HTC Vive PCs which run the experience in real time at 90 frames per second. VR is a new tool and art form where, if the work operates successfully, you can conceptually shift the audience’s spatial reality. In VR, the audience ceases to be merely an observer and becomes part of the artwork, which is very powerful from an engagement point of view.  
+
+{% 'image_07_william_latham' %}
 
 **PA:** We have discussed some of the references of your work such as Surrealism, Tantric art and nature. It would also be interesting to hear more about the thinkers and theoretical concepts that have helped shape your work.
 
