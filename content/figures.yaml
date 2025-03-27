@@ -37,229 +37,229 @@ figure_list:
     alt: "Interactive prototype of a data visualisation model demonstrating the Computer Arts Society’s global network from 1968 to 1985"
 
   - id: "image_01_analivia_cordeiro"
-    src: 1/image_01_analivia_cordeiro.jpg
+    src: ac/image_01_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3, 1973, computer-based video dance, mono-channel video 4:3 (black and white, sound), video version: 9:41 min, 16mm film version:12:11 min, video still frame. V&A: E.695-2017"
     credit: "© Analivia Cordeiro"
     alt: "Still from video featuring nine dancers performing a computer-generated choreography The dancers wear black customes with white lines against a white background with black lines"
 
   - id: "image_02_analivia_cordeiro"
-    src: 1/image_02_analivia_cordeiro.jpg
+    src: ac/image_02_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3, 1973, photograph taken during the recording of the performance, 23.5 x 18 cm"
     credit: "Photo: Silvio M Zanchetti"
     alt: "Close up of five dancers performing a computer-generated choreography The dancers wear black customes with white lines against a white background with black lines"
 
   - id: "image_03_analivia_cordeiro"
-    src: 1/image_03_analivia_cordeiro.jpg
+    src: ac/image_03_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. 0º⟺45º dance notation, 1974-1984, computer plotter output on paper, 21.5 x 33.2 cm "
     credit: "© Analivia Cordeiro"
     alt: "Diagram with 54 drawings of body position notations for the computer-generated dance 0º⟺45º  "
 
   - id: "image_04_vladimir_bonacic"
-    src: 1/image_04_vladimir_bonacic.jpg
+    src: ac/image_04_vladimir_bonacic.jpg
     caption: "Vladimir Bonačić. GF.E16-NS, 1969, computer-based light installation, 36 x 36 x 12 cm"
     credit: "© Vladimir Bonačić; Photo © ZKM | Center for Art and Media Karlsruhe"
     alt: "Square shaped computer-based light installation with 256 yellow light bulbs that activate intermediately in response to a programmed sequence"
 
   - id: "image_05_analivia_cordeiro"
-    src: 1/image_05_analivia_cordeiro.jpg
+    src: ac/image_05_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro working at Intergraph InterAct Workstation, São Paulo, 1984"
     credit: "© Analivia Cordeiro"
     alt: "Artist Analivia Cordeiro smiling, seated at a workstation with two computer monitors, a keyboard and a mouse, in São Paulo"
 
   - id: "image_06_nilton_lobo"
-    src: 1/image_06_nilton_lobo.jpg
+    src: ac/image_06_nilton_lobo.jpg
     caption: "Nilton Lobo working at Intergraph InterAct Workstation, São Paulo, 1984"
     credit: "© Analivia Cordeiro"
     alt: "Engineer Nilton Lobo typing while seated at a workstation with two computer monitors, a keyboard and a mouse, in São Paulo"
 
   - id: "image_07_waldemar_cordeiro"
-    src: 1/image_07_waldemar_cordeiro.jpg
+    src: ac/image_07_waldemar_cordeiro.jpg
     caption: "Waldemar Cordeiro, Derivadas de uma Imagem: Transformação em Grau Zero, 1969, litograph after a computer-generated impact print, 61 x 44.5 cm. V&A: E.202-2018"
     credit: "Given by Thomas Cordeiro Guedes and Grégoire Cordeiro Belhassen through the Mayor Gallery"
     alt: "Computer-generated portrait on paper of a female and male character facing each other"
 
   - id: "image_08_kinetic_spectacle"
-    src: 1/image_08_kinetic_spectacle.jpg
+    src: ac/image_08_kinetic_spectacle.jpg
     caption: "Espectáculo Cinético (Kinetic Spectacle), 1969, dance concert with Maria Duschenes group, Museu de Arte Moderna de Campinas, São Paulo, black and white photograph"
     credit: "Photo: Abrāo Metri"
     alt: "Five dancers performing a contemporary choreography in a dance concert at Museu de Arte Moderna de Campinas, São Paulo"
 
   - id: "image_09_analivia_cordeiro"
-    src: 1/image_09_analivia_cordeiro.jpg
+    src: ac/image_09_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3 Dancer 3 Body Position Notations, 1973, electrography from the original lost drawing, 35.4 x 21.5 cm"
     credit: "© Analivia Cordeiro"
     alt: "Diagram with 140 drawings of body position notations for the computer-generated dance M3x3  "
 
   - id: "image_10_analivia_cordeiro"
-    src: 1/image_10_analivia_cordeiro.jpg
+    src: ac/image_10_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro, Cambiantes installation, 1976-2015, three-channel video installation 4:3 (black and white, sound) at ‘Analivia Cordeiro: From Body to Code’ exhibition, ZKM | Center for Art and Media, Karlsruhe (28 January — 7 May 2023)"
     credit: "Photo: Felix Grünschloß; Photo © ZKM | Center for Art and Media Karlsruhe"
     alt: "Two people dancing to the projection of Analivia Cordeiro’s computer-generated dance Cambiantes at her exhibition ‘Body to Code’ in ZKM | Center for Art and Media, Karlsruhe"
 
   - id: "image_01_gillian_wise"
-    src: 2/image_01_gillian_wise.jpg
+    src: ee/image_01_gillian_wise.jpg
     caption: "Gillian Wise, Red Quartet, 1974, screenprint with felt tip pen, 84.4 x 59.5 cm. V&A: E.1403-1976"
     credit: ""
     alt: "Screenprint of a square composition featuring four colour and geometrical patterns on each corner against a backdrop of a larger sequence of the same pattern in grey"
 
   - id: "image_02_frieder_nake"
-    src: 2/image_02_frieder_nake.jpg
+    src: ee/image_02_frieder_nake.jpg
     caption: "Frieder Nake, Hommage à Paul Klee, 1965, screenprint on paper, from a computer-generated drawing, 49.2 x 49.2 cm. V&A: E.951-2008"
     credit: "Given by the American Friends of the V&A through the generosity of Patric Prince © Frieder Nake"
     alt: "Computer-generated drawing on paper displaying a square grid that contains an uneven arrangement of circles and horizontal and vertical lines that appear to be hand drawn in the style of artist Paul Klee"
 
   - id: "image_03_michael_noll"
-    src: 2/image_03_michael_noll.jpg
+    src: ee/image_03_michael_noll.jpg
     caption: "A. Michael Noll, Computer Composition with Lines, made 1964, printed 1965, photographic print of a computer-generated image, 28 x 21.5 cm. V&A: E.35-2011"
     credit: "© A Michael Noll"
     alt: "Computer-generated drawing on paper showcasing a circle composed by multiple horizontal and vertical lines with variable lengths in the style of artist Piet Mondrian"
 
   - id: "image_04_ernest_edmonds"
-    src: 2/image_04_ernest_edmonds.jpg
+    src: ee/image_04_ernest_edmonds.jpg
     caption: "Ernest Edmonds, Nineteen, 1968-69, computer generated composition, mixed media, 170 x 135 x 15cm"
     credit: "Photo: Jules Lister © Ernest Edmonds"
     alt: "Set of 20 sculptural squares mounted on a wall with variable colourful geometric motifs composed utilising a computer program"
 
   - id: "image_05_ernest_edmonds"
-    src: 2/image_05_ernest_edmonds.jpg
+    src: ee/image_05_ernest_edmonds.jpg
     caption: "Ernest Edmonds, Notes on interaction, 2003, digital collage of the artist's notes including sketches, photographs, handwritten and typed notes on the artwork DATAPACK, 1970, and the INTERACTProject, 1980, 78.7 x 46.9 cm. V&A: E.882-2010"
     credit: "© Ernest Edmonds"
     alt: "A collage of notes, sketches, photographs, handwritten and typed notes by the artist Ernest Edmonds about his artwork DATAPACK"
 
   - id: "image_06_ernest_edmonds"
-    src: 2/image_06_ernest_edmonds.jpg
+    src: ee/image_06_ernest_edmonds.jpg
     caption: "Ernest Edmonds, Notes on Communication Games, 2000, documentation including types notes and diagrams relating to the artwork Communications Games, 1969, 68.8 x 56.7 cm. V&A: E.885-2010"
     credit: "© Ernest Edmonds"
     alt: "Typed notes and a diagram related to the interactive artwork Communications Games by artist Ernest Edmonds"
 
   - id: "image_07_ernest_edmonds"
-    src: 2/image_07_ernest_edmonds.jpg
+    src: ee/image_07_ernest_edmonds.jpg
     caption: "Ernest Edmonds, Shaping Form 14/5/2007, 2007, generative interactive computational work on a square monitor, 41.6 x 41 x 7.5 cm. V&A: E.294:1-2011"
     credit: "Given by the Faculty of Engineering and Information Technology, University of Technology, Sydney, Australia © Ernest Edmonds"
     alt: "White and slim square monitor with an integrated video camera displaying an interactive computer-generated artwork that features a sequence of overlapping vertical rectangles in high contrasting colours"
 
   - id: "image_01_kenneth_martin"
-    src: 3/image_01_kenneth_martin.jpg
+    src: wl/image_01_kenneth_martin.jpg
     caption: "Kenneth Martin, Chance and Order I, 1971, screenprint, 68.2 x 68.2 cm. V&A: E.1532-1974"
     credit: ""
     alt: "Screenprint of a geometrical figure composed of parallel line arrangements of variable lengths, directions and colours"
 
   - id: "image_02_william_latham"
-    src: 3/image_02_william_latham.jpg
+    src: wl/image_02_william_latham.jpg
     caption: "William Latham, Spiral Balsa Wood Structure, 1982, silk screenprint, 55 x 43.5 cm. V&A: E.289-2014"
     credit: ""
     alt: "Screenprint with four different perspectives of a wooden spiral structure that appears to be flying against a yellow square background"
 
   - id: "image_03_william_latham"
-    src: 3/image_03_william_latham.jpg
+    src: wl/image_03_william_latham.jpg
     caption: "William Latham, Family of Forms, 1985, black and white etching depicting the evolution of complex forms using a simple set of transformation rules, 70.5 x 57 cm. V&A: E.292-2014"
     credit: ""
     alt: "Etching depicting the evolution of complex geometrical forms using a set of transformation rules composed by the artist William Latham"
 
   - id: "image_04_william_latham"
-    src: 3/image_04_william_latham.jpg
+    src: wl/image_04_william_latham.jpg
     caption: "William Latham, Coild Horn (Twist 5), 1987, Cibachrome print after a computer-generated image, 48.5 x 41.5 cm. V&A: E.296-2014"
     credit: "Courtesy of the artist"
     alt: "Computer-generated three-dimensional image printed on photographic paper showcasing a sequence of golden spirals that are shaped like a twisted horn wrapped in a circular form against a black backdrop"
 
   - id: "image_05_william_latham"
-    src: 3/image_05_william_latham.jpg
+    src: wl/image_05_william_latham.jpg
     caption: "William Latham at ‘The Conquest of Form’ exhibition at the Arnolfini Gallery, Bristol (02 December 1988 - 14 January 1989)"
     credit: "Courtesy of the artist"
     alt: "Artist William Latham posing, standing next to his artworks at the exhibition ‘The Conquest of Form’ at the Arnolfini Gallery, Bristol"
 
   - id: "image_06_william_latham"
-    src: 3/image_06_william_latham.jpg
+    src: wl/image_06_william_latham.jpg
     caption: "William Latham working on an early version of Mutator at the IBM UK Scientific Centre, Winchester, 1988. "
     credit: "Courtesy of the artist"
     alt: "Artist William Latham looking at a printed diagram of computer-generated forms while seated at his desk with five computer monitors and multiple keyboards in the IBM UK Scientific Centre, Winchester"
 
   - id: "image_07_william_latham"
-    src: 3/image_07_william_latham.jpg
+    src: wl/image_07_william_latham.jpg
     caption: "William Latham, Zapx4rgg raytraced in red room, 1993, computer-generated image from Mutator Software developed by William Latham and Stephen Todd"
     credit: "Courtesy of the artist"
     alt: "Computer-generated three-dimensional image of a square room containing a mutated circular organism composed of multiple tentacles curled towards its centre"
 
   - id: "image_01_owen_jones"
-    src: 4/image_01_owen_jones.jpg
+    src: jl/image_01_owen_jones.jpg
     caption: "Owen Jones, architectural drawing of an entrance pylon to an Egyptian temple, circa 1853, watercolour, 25.1 x 17.4 cm. V&A: SD.544:2"
     credit: "Purchased with the assistance of the National Heritage Memorial Fund, Art Fund, Shell International and the Friends of the V&A"
     alt: "Architectural drawing on paper of an Egyptian temple that displays in its facade colourful murals with historic scenes  "
 
   - id: "image_02_john_lifton"
-    src: 4/image_02_john_lifton.jpg
+    src: jl/image_02_john_lifton.jpg
     caption: "John Lifton, ‘Green Music’ exhibition at the Whitechapel Art Gallery, London (29 May - 6 July 1972)"
     credit: "Courtesy of the Whitechapel Gallery Photo: Michael Dunn"
     alt: "Music installation generating electronic music utilising the frequency of six medium size plants in their pots, exhibited at Whitechapel Art Gallery, London"
 
   - id: "image_03_institute_of_research"
-    src: 4/image_03_institute_of_research.jpg
+    src: jl/image_03_institute_of_research.jpg
     caption: "The Institute of Research in Art and Technology [New Arts Laboratory], Robert Street, Camden Town, London, 1969"
     credit: "Photo: Pamela Zoline Courtesy of Pamela Zoline"
     alt: "Street view of The Institute for Research in Art and Technology, New Arts Laboratory, showing an old industrial bricked building in Robert Street, London"
 
   - id: "image_04_john_lifton"
-    src: 4/image_04_john_lifton.jpg
+    src: jl/image_04_john_lifton.jpg
     caption: "John Lifton, Green Music, 1973, installation, rack of plant sensing, signal processing, and music synthesis systems, at the Conservatory of Flowers in Golden Gate Park, San Francisco, USA, 1978"
     credit: "© Richard Lowenberg Courtesy of the artist"
     alt: "Artist John Lifton working with the music synthetisers of his Green Music installation at the Conservatory of Flowers in Golden Gate Park, San Francisco"
 
   - id: "image_05_john_lifton"
-    src: 4/image_05_john_lifton.jpg
+    src: jl;/image_05_john_lifton.jpg
     caption: "John Lifton, Green Music, 1973, installation, rack of plant sensing, signal processing, and music synthesis systems, at the Conservatory of Flowers in Golden Gate Park, San Francisco, USA, 1978"
     credit: "© Richard Lowenberg Courtesy of the artist"
     alt: "Artist John Lifton seated on the floor, looking at the camera and smiling next to a signal processor installed on a small plant at the Conservatory of Flowers in Golden Gate Park, San Francisco"
 
   - id: "image_06_harold_cohen"
-    src: 4/image_06_harold_cohen.jpg
+    src: jl/image_06_harold_cohen.jpg
     caption: "Harold Cohen, Amsterdam Suite 'C', 1977, lithograph from a computer-generated drawing, 73 x 56 cm. V&A: E.330-2009"
     credit: "© Harold Cohen"
     alt: "Computer-generated drawing on paper displaying a composition of variable shapes that appear to be drawn by hand"
 
   - id: "image_01_stephen_willats"
-    src: image_01_stephen_willats.jpg
+    src: sw/image_01_stephen_willats.jpg
     caption: "Stephen Willats, Traditional relationship between Arts and Audience, 1972.  "
     credit: "Courtesy of the artist © Stephen Willats"
     alt: "Diagram on a sheet of paper that depicts the traditional relationship between the artist, an artwork and the audience, as perceived by the artist Stephen Willats"
 
   - id: "image_02_stephen_willats"
-    src: image_02_stephen_willats.jpg
+    src: sw/image_02_stephen_willats.jpg
     caption: "Stephen Willats, Oppositional State of Concept Frames, 1974. "
     credit: "Courtesy of the artist © Stephen Willats"
     alt: "Three-dimensional square diagram printed on a book’s page that presents the different conceptual frameworks that influence human cognition, according to the artist Stephen Willats"
 
   - id: "image_03_stephen_willats"
-    src: image_03_stephen_willats.jpg
+    src: sw/image_03_stephen_willats.jpg
     caption: "Stephen Willats, Design drawing for plastic dress Variable Sheets (Optical Shift), 1965, pencil and body colour on paper, 111 x 76 cm. V&A: E.1615-1984"
     credit: "© Stephen Willats"
     alt: "Drawing on paper of the design for the colourful and geometrical plastic dress Variable Sheets or Optical Shift created by the artist Stephen Willats"
 
   - id: "image_04_stephen_willats"
-    src: image_04_stephen_willats.jpg
+    src: sw/image_04_stephen_willats.jpg
     caption: "PAIR WITH Image 05_Stephen Willats, Visual Homeostat No.1"
     credit: ""
     alt: "Large scale wooden light installation featuring 40 circular lights that activate intermediately in response to the audience’s behaviour, displayed across five vertical structural panels"
 
   - id: "image_05_stephen_willats"
-    src: image_05_stephen_willats.jpg
+    src: sw/image_05_stephen_willats.jpg
     caption: "Stephen Willats, Visual Homeostat No.1, 1966-67. Two units, each unit: 244 x 457 x 183 cm with a 457 cm gap between units"
     credit: "Courtesy of the artist"
     alt: "Large scale wooden light installation featuring 40 circular lights that activate intermediately in response to the audience’s behaviour, displayed across five vertical structural panels"
 
   - id: "image_06_stephen_willats"
-    src: image_06_stephen_willats.jpg
+    src: sw/image_06_stephen_willats.jpg
     caption: "Stephen Willats, Handout made for the ‘Cognition Control’ exhibition, Midland Group Gallery, Nottingham, 1972"
     credit: "Courtesy of the artist © Stephen Willats"
     alt: "Promotional hand out showcasing diagrams and information about the exhibition ‘Cognition Control’ at Midland Group Gallery, Nottingham"
 
   - id: "image_07_stephen_willats"
-    src: image_07_stephen_willats.jpg
+    src: sw/image_07_stephen_willats.jpg
     caption: "Stephen Willats, Visual Meta Language Simulation, 1971–2, at the ‘Control Cognition’ exhibition, Museum of Modern Art, Oxford, [Now Modern Art Oxford], 1971"
     credit: "Courtesy of the artist "
     alt: "Large scale light installation showcasing multiple sets of square lights that activate intermediately in response to a programmed sequence and the audience"
 
   - id: "image_08_stephen_willats"
-    src: image_08_stephen_willats.jpg
+    src: sw/image_08_stephen_willats.jpg
     caption: "Stephen Willats, Metafilter, 1973-75, wood case internally mounted with electronics and slide projector. Perspex screens and thesaurus text. Meta Desk units, 152.5 x 183 x 152.5 cm; at Gallery House, 1975"
     credit: "Collection of Fonds National d’Art Contemporain Paris Courtesy of the artist "
     alt: "Interactive artwork for two people composed by a custom-built wood case unit with two integrated desks arranged opposite to each other, internally mounted slide projectors, Perspex screens and keyboards; exhibited at Gallery House, London"
