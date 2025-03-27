@@ -1,7 +1,7 @@
 figure_list:
 
   - id: "image_01_norma_tamburini"
-    src: /content/_assets/images/image_01_analivia_cordeiro.jpg
+    src: "/content/_assets/images/image_01_analivia_cordeiro.jpg"
     caption: "Norma Tamburini, Untitled, c. 1968, computer generated print on paper, 108 x 30 cm. V&A: E.2715-2016"
     credit: "Given by the Computer Arts Society, supported by System Simulation Ltd, London"
     alt: "Computer-generated print on paper showing eight diagonal lines formed of shorter vertical lines of varying length "
