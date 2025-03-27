@@ -37,61 +37,61 @@ figure_list:
     alt: "Interactive prototype of a data visualisation model demonstrating the Computer Arts Society’s global network from 1968 to 1985"
 
   - id: "image_01_analivia_cordeiro"
-    src: image_01_analivia_cordeiro.jpg
+    src: 1/image_01_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3, 1973, computer-based video dance, mono-channel video 4:3 (black and white, sound), video version: 9:41 min, 16mm film version:12:11 min, video still frame. V&A: E.695-2017"
     credit: "© Analivia Cordeiro"
     alt: "Still from video featuring nine dancers performing a computer-generated choreography The dancers wear black customes with white lines against a white background with black lines"
 
   - id: "image_02_analivia_cordeiro"
-    src: image_02_analivia_cordeiro.jpg
+    src: 1/image_02_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3, 1973, photograph taken during the recording of the performance, 23.5 x 18 cm"
     credit: "Photo: Silvio M Zanchetti"
     alt: "Close up of five dancers performing a computer-generated choreography The dancers wear black customes with white lines against a white background with black lines"
 
   - id: "image_03_analivia_cordeiro"
-    src: image_03_analivia_cordeiro.jpg
+    src: 1/image_03_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. 0º⟺45º dance notation, 1974-1984, computer plotter output on paper, 21.5 x 33.2 cm "
     credit: "© Analivia Cordeiro"
     alt: "Diagram with 54 drawings of body position notations for the computer-generated dance 0º⟺45º  "
 
   - id: "image_04_vladimir_bonacic"
-    src: image_04_vladimir_bonacic.jpg
+    src: 1/image_04_vladimir_bonacic.jpg
     caption: "Vladimir Bonačić. GF.E16-NS, 1969, computer-based light installation, 36 x 36 x 12 cm"
     credit: "© Vladimir Bonačić; Photo © ZKM | Center for Art and Media Karlsruhe"
     alt: "Square shaped computer-based light installation with 256 yellow light bulbs that activate intermediately in response to a programmed sequence"
 
   - id: "image_05_analivia_cordeiro"
-    src: image_05_analivia_cordeiro.jpg
+    src: 1/image_05_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro working at Intergraph InterAct Workstation, São Paulo, 1984"
     credit: "© Analivia Cordeiro"
     alt: "Artist Analivia Cordeiro smiling, seated at a workstation with two computer monitors, a keyboard and a mouse, in São Paulo"
 
   - id: "image_06_nilton_lobo"
-    src: image_06_nilton_lobo.jpg
+    src: 1/image_06_nilton_lobo.jpg
     caption: "Nilton Lobo working at Intergraph InterAct Workstation, São Paulo, 1984"
     credit: "© Analivia Cordeiro"
     alt: "Engineer Nilton Lobo typing while seated at a workstation with two computer monitors, a keyboard and a mouse, in São Paulo"
 
   - id: "image_07_waldemar_cordeiro"
-    src: image_07_waldemar_cordeiro.jpg
+    src: 1/image_07_waldemar_cordeiro.jpg
     caption: "Waldemar Cordeiro, Derivadas de uma Imagem: Transformação em Grau Zero, 1969, litograph after a computer-generated impact print, 61 x 44.5 cm. V&A: E.202-2018"
     credit: "Given by Thomas Cordeiro Guedes and Grégoire Cordeiro Belhassen through the Mayor Gallery"
     alt: "Computer-generated portrait on paper of a female and male character facing each other"
 
   - id: "image_08_kinetic_spectacle"
-    src: image_08_kinetic_spectacle.jpg
+    src: 1/image_08_kinetic_spectacle.jpg
     caption: "Espectáculo Cinético (Kinetic Spectacle), 1969, dance concert with Maria Duschenes group, Museu de Arte Moderna de Campinas, São Paulo, black and white photograph"
     credit: "Photo: Abrāo Metri"
     alt: "Five dancers performing a contemporary choreography in a dance concert at Museu de Arte Moderna de Campinas, São Paulo"
 
   - id: "image_09_analivia_cordeiro"
-    src: image_09_analivia_cordeiro.jpg
+    src: 1/image_09_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3 Dancer 3 Body Position Notations, 1973, electrography from the original lost drawing, 35.4 x 21.5 cm"
     credit: "© Analivia Cordeiro"
     alt: "Diagram with 140 drawings of body position notations for the computer-generated dance M3x3  "
 
   - id: "image_10_analivia_cordeiro"
-    src: image_10_analivia_cordeiro.jpg
+    src: 1/image_10_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro, Cambiantes installation, 1976-2015, three-channel video installation 4:3 (black and white, sound) at ‘Analivia Cordeiro: From Body to Code’ exhibition, ZKM | Center for Art and Media, Karlsruhe (28 January — 7 May 2023)"
     credit: "Photo: Felix Grünschloß; Photo © ZKM | Center for Art and Media Karlsruhe"
     alt: "Two people dancing to the projection of Analivia Cordeiro’s computer-generated dance Cambiantes at her exhibition ‘Body to Code’ in ZKM | Center for Art and Media, Karlsruhe"
