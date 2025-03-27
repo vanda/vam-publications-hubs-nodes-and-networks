@@ -42,7 +42,7 @@ Digital art is no longer sufficient to address this type of art, and it could be
 
 Future spectators will be challenged to understand and visually absorb this structure, but visualisation is changing, and we will change. People will need more accuracy to understand and memorize similar images.
 
-{% figure 'mage_03_analivia_cordeiro' %}
+{% figure 'image_03_analivia_cordeiro' %}
 
 **PA:** Over the years, you have collaborated with different individuals across the UK and internationally, including Vladimir Bonačić, John Lansdown and Nilton Lobo. Could you tell us about these collaborations and the expertise they have brought to your practice?  
 
