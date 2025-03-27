@@ -14,7 +14,7 @@ The Second World War was just over when I was little, so my mother wanted me to 
 
 Later, I went to the Merchant Taylors' School which was at Moor Park, nearby. I was the only student who had a special dispensation to trade out some of the science time to work in the art studio. Even then, I insisted on doing both art and science. I don't know when I first came across computer art; it hardly existed as a category back then. Most people, if you mentioned computer art, would give you a totally blank look as it didn't mean anything. At that time, I was thinking of an artist’s studio as a place extended to include design and the construction of electronics and computing equipment. The other people that I knew with a similar perspective were musicians, because electronics had penetrated music more than other areas of the arts. 
 
-{% 'image_01_owen_jones' %}
+{% figure 'image_01_owen_jones' %}
 
 **PA:** Since early in your career, you have taken part in different events and exhibitions such as ‘Cybernetic Serendipity’ (1968) at the Institute of Contemporary Arts (ICA); and ’Event One’ (1969) at Royal College of Art (RCA), both in London; ‘INTERACT. Machine: Man: Society’ (1973), organized by the Computer Arts Society (CAS) for the Edinburgh International Festival; and ‘Green Music’ (1975) at Whitechapel Gallery, in London. Could you tell us about these and other events that were both memorable and important in establishing the digital art scene or circle that your practice originates from? And which helped raise the profile of that community?
 
@@ -22,7 +22,7 @@ Later, I went to the Merchant Taylors' School which was at Moor Park, nearby. I 
 
 I was heavily involved in the founding of the New Arts Lab at Robert Street, in London, in 1968, and got to know the composer Hugh Davies who oversaw music there. We were close friends and in 1970 we started a music performance group called Naked Software with the composer Annea Lockwood and producer Harvey Matusow. We toured around the country with two hundred instruments that we used for our improvisations during the performances. 
 
-{% 'image_02_john_lifton' %}
+{% figure 'image_02_john_lifton' %}
 
 **PA:** Around the period these events took place, what specific vocabulary was being used to describe digital art? It would be good to hear about them given how terminologies have been used and changed across different periods.    
 
@@ -46,7 +46,7 @@ Shortly after this, a rebellion at the Drury Lane Arts Lab happened. I was part 
 
 I did take the opening of the New Arts Lab as the opportunity to stop working in architecture and to set up a cybernetics workshop. I kind of moved to the lab and started working on stuff without any income. It was a big risk, but London was cheap then, and I got odd bits of jobs that helped me stay afloat. When we were setting up the Arts Lab, I persuaded the group to incorporate it as the Institute for Research in Art and Technology (IRAT), because I saw an opportunity to bridge the more hippie-orientated Arts Lab scene with the academic world. The institute only lasted a couple of years, but it did influence the London arts scene. 
 
-{% 'image_03_institute_of_research' %}
+{% figure 'image_03_institute_of_research' %}
 
 **PA:** Throughout your career, you have been part of groups and social formations that have existed within and beyond the UK, and have contributed to the development of the digital arts. For example, CAS and IRAT, both of which you mentioned earlier. 
 
@@ -76,7 +76,7 @@ The speed things were happening was remarkable. Only six years later, the RCA wa
 
 Harold had been Pamela’s teacher at the Slade. He moved to the USA in 1968 and worked as a lecturer at the University of California in San Diego. He ended up working there for 30 years and we would occasionally visit him. By the early 1970s, he had produced an early version of his computer program AARON, which generated paintings and drawings. I consider Harold’s work to be at that time the most sophisticated computer art that was being made anywhere. He was a first rate painter himself plus he really liked programming, which was an ideal combination. 
 
-{% 'image_06_harold_cohen' ^%}
+{% figure 'image_06_harold_cohen' ^%}
 
 **PA:** Finally, it would be interesting to hear about the thinkers and theoretical concepts that have helped shape your work.
 
