@@ -9,20 +9,19 @@ figure_list:
   - id: "image_02_poster_cybernetic"
     src: image_02_poster_cybernetic.jpg
     caption: "Poster of 'Cybernetic Serendipity' exhibition, Institute of Contemporary Arts, London (2 August — 20 October 1968). Designed by Franciszka Themerson."
-    credit: " © Cybernetic Serendipity 1968 "
+    credit: "© Cybernetic Serendipity 1968 "
     alt: "Promotional poster of the exhibition ‘Cybernetic Serendipity’ showcasing a robot and a geometrical composition alongside the list of participants "
 
   - id: "image_03_peter_zinovieff"
     src: image_03_peter_zinovieff.jpg
-    caption: "Peter Zinovieff's Studio at the 'Cybernetic Serendipity' exhibition, Institute of Contemporary Arts, London,  
-(2 August — 20 October 1968)."
-    credit: " © Cybernetic Serendipity 1968 "
+    caption: "Peter Zinovieff's Studio at the 'Cybernetic Serendipity' exhibition, Institute of Contemporary Arts, London, (2 August — 20 October 1968)."
+    credit: "© Cybernetic Serendipity 1968 "
     alt: "Technological equipment from Peter Zinovieff's electronic music studio staged at the exhibition ‘Cybernetic Serendipity’ "
 
   - id: "image_04_gordon_pask"
     src: image_04_gordon_pask.jpg
     caption: "Gordon Pask, Colloquy of Mobiles, 1968. Installation view: 'Cybernetic Serendipity' exhibition, Institute of Contemporary Arts, London, (2 August — 20 October 1968)."
-    credit: " © Cybernetic Serendipity 1968 "
+    credit: "© Cybernetic Serendipity 1968 "
     alt: "Interactive installation with five computer-controlled fiberglass sculptural mobiles presented at the exhibition ‘Cybernetic Serendipity’ "
 
   - id: "image_05_event_one"
@@ -40,7 +39,7 @@ figure_list:
   - id: "image_01_analivia_cordeiro"
     src: image_01_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3, 1973, computer-based video dance, mono-channel video 4:3 (black and white, sound), video version: 9:41 min, 16mm film version:12:11 min, video still frame. V&A: E.695-2017."
-    credit: " © Analivia Cordeiro"
+    credit: "© Analivia Cordeiro"
     alt: "Still from video featuring nine dancers performing a computer-generated choreography The dancers wear black customes with white lines against a white background with black lines   "
 
   - id: "image_02_analivia_cordeiro"
@@ -52,25 +51,25 @@ figure_list:
   - id: "image_03_analivia_cordeiro"
     src: image_03_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. 0º⟺45º dance notation, 1974-1984, computer plotter output on paper, 21.5 x 33.2 cm  "
-    credit: " © Analivia Cordeiro"
+    credit: "© Analivia Cordeiro"
     alt: "Diagram with 54 drawings of body position notations for the computer-generated dance 0º⟺45º  "
 
   - id: "image_04_vladimir_bonacic"
     src: image_04_vladimir_bonacic.jpg
     caption: "Vladimir Bonačić. GF.E16-NS, 1969, computer-based light installation, 36 x 36 x 12 cm."
-    credit: " © Vladimir Bonačić; Photo © ZKM | Center for Art and Media Karlsruhe"
+    credit: "© Vladimir Bonačić; Photo © ZKM | Center for Art and Media Karlsruhe"
     alt: "Square shaped computer-based light installation with 256 yellow light bulbs that activate intermediately in response to a programmed sequence  "
 
   - id: "image_05_analivia_cordeiro"
     src: image_05_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro working at Intergraph InterAct Workstation, São Paulo, 1984."
-    credit: " © Analivia Cordeiro"
+    credit: "© Analivia Cordeiro"
     alt: "Artist Analivia Cordeiro smiling, seated at a workstation with two computer monitors, a keyboard and a mouse, in São Paulo  "
 
   - id: "image_06_nilton_lobo"
     src: image_06_nilton_lobo.jpg
     caption: "Nilton Lobo working at Intergraph InterAct Workstation, São Paulo, 1984."
-    credit: " © Analivia Cordeiro"
+    credit: "© Analivia Cordeiro"
     alt: "Engineer Nilton Lobo typing while seated at a workstation with two computer monitors, a keyboard and a mouse, in São Paulo "
 
   - id: "image_07_waldemar_cordeiro"
@@ -81,16 +80,14 @@ figure_list:
 
   - id: "image_08_kinetic_spectacle"
     src: image_08_kinetic_spectacle.jpg
-    caption: "Espectáculo Cinético (Kinetic Spectacle), 1969, dance concert with Maria Duschenes group,  
-Museu de Arte Moderna de Campinas, São Paulo, black and white photograph. "
+    caption: "Espectáculo Cinético (Kinetic Spectacle), 1969, dance concert with Maria Duschenes group, Museu de Arte Moderna de Campinas, São Paulo, black and white photograph. "
     credit: "Photo: Abrāo Metri"
     alt: "Five dancers performing a contemporary choreography in a dance concert at Museu de Arte Moderna de Campinas, São Paulo "
 
   - id: "image_09_analivia_cordeiro"
     src: image_09_analivia_cordeiro.jpg
-    caption: "Analivia Cordeiro. M3x3 Dancer 3 Body Position Notations, 1973,  
-electrography from the original lost drawing, 35.4 x 21.5 cm."
-    credit: " © Analivia Cordeiro"
+    caption: "Analivia Cordeiro. M3x3 Dancer 3 Body Position Notations, 1973, electrography from the original lost drawing, 35.4 x 21.5 cm."
+    credit: "© Analivia Cordeiro"
     alt: "Diagram with 140 drawings of body position notations for the computer-generated dance M3x3  "
 
   - id: "image_10_analivia_cordeiro"
@@ -107,17 +104,14 @@ electrography from the original lost drawing, 35.4 x 21.5 cm."
 
   - id: "image_02_frieder_nake"
     src: image_02_frieder_nake.jpg
-    caption: "Frieder Nake, Hommage à Paul Klee, 1965, screenprint on paper, from a computer-generated drawing,  
-49.2 x 49.2 cm. V&A: E.951-2008."
-    credit: "Given by the American Friends of the V&A through  
-the generosity of Patric Prince © Frieder Nake
- "
+    caption: "Frieder Nake, Hommage à Paul Klee, 1965, screenprint on paper, from a computer-generated drawing, 49.2 x 49.2 cm. V&A: E.951-2008."
+    credit: "Given by the American Friends of the V&A through the generosity of Patric Prince © Frieder Nake"
     alt: "Computer-generated drawing on paper displaying a square grid that contains an uneven arrangement of circles and horizontal and vertical lines that appear to be hand drawn in the style of artist Paul Klee  "
 
   - id: "image_03_michael_noll"
     src: image_03_michael_noll.jpg
     caption: "A. Michael Noll, Computer Composition with Lines, made 1964, printed 1965, photographic print of a computer-generated image, 28 x 21.5 cm. V&A: E.35-2011."
-    credit: " © A Michael Noll"
+    credit: "© A Michael Noll"
     alt: "Computer-generated drawing on paper showcasing a circle composed by multiple horizontal and vertical lines with variable lengths in the style of artist Piet Mondrian  "
 
   - id: "image_04_ernest_edmonds"
@@ -128,15 +122,14 @@ the generosity of Patric Prince © Frieder Nake
 
   - id: "image_05_ernest_edmonds"
     src: image_05_ernest_edmonds.jpg
-    caption: "Ernest Edmonds, Notes on interaction, 2003, digital collage of the artist's notes including sketches, photographs, handwritten and typed notes on the artwork DATAPACK, 1970, and the INTERACTProject, 1980,  
-78.7 x 46.9 cm. V&A: E.882-2010."
-    credit: " © Ernest Edmonds"
+    caption: "Ernest Edmonds, Notes on interaction, 2003, digital collage of the artist's notes including sketches, photographs, handwritten and typed notes on the artwork DATAPACK, 1970, and the INTERACTProject, 1980, 78.7 x 46.9 cm. V&A: E.882-2010."
+    credit: "© Ernest Edmonds"
     alt: "A collage of notes, sketches, photographs, handwritten and typed notes by the artist Ernest Edmonds about his artwork DATAPACK  "
 
   - id: "image_06_ernest_edmonds"
     src: image_06_ernest_edmonds.jpg
     caption: "Ernest Edmonds, Notes on Communication Games, 2000, documentation including types notes and diagrams relating to the artwork Communications Games, 1969, 68.8 x 56.7 cm. V&A: E.885-2010."
-    credit: " © Ernest Edmonds"
+    credit: "© Ernest Edmonds"
     alt: "Typed notes and a diagram related to the interactive artwork Communications Games by artist Ernest Edmonds "
 
   - id: "image_07_ernest_edmonds"
@@ -171,10 +164,9 @@ the generosity of Patric Prince © Frieder Nake
 
   - id: "image_05_william_latham"
     src: image_05_william_latham.jpg
-    caption: "William Latham at ‘The Conquest of Form’ exhibition at the Arnolfini Gallery, Bristol  
-(02 December 1988 - 14 January 1989). "
+    caption: "William Latham at ‘The Conquest of Form’ exhibition at the Arnolfini Gallery, Bristol (02 December 1988 - 14 January 1989)."
     credit: "Courtesy of the artist"
-    alt: "Artist William Latham posing, standing next to his artworks at the exhibition ‘The Conquest of Form’ at the Arnolfini Gallery, Bristol "
+    alt: "Artist William Latham posing, standing next to his artworks at the exhibition ‘The Conquest of Form’ at the Arnolfini Gallery, Bristol"
 
   - id: "image_06_william_latham"
     src: image_06_william_latham.jpg
@@ -185,7 +177,7 @@ the generosity of Patric Prince © Frieder Nake
   - id: "image_07_william_latham"
     src: image_07_william_latham.jpg
     caption: "William Latham, Zapx4rgg raytraced in red room, 1993, computer-generated image from Mutator Software developed by William Latham and Stephen Todd."
-    credit: " Courtesy of the artist"
+    credit: "Courtesy of the artist"
     alt: "Computer-generated three-dimensional image of a square room containing a mutated circular organism composed of multiple tentacles curled towards its centre  "
 
   - id: "image_01_owen_jones"
@@ -197,8 +189,7 @@ the generosity of Patric Prince © Frieder Nake
   - id: "image_02_john_lifton"
     src: image_02_john_lifton.jpg
     caption: "John Lifton, ‘Green Music’ exhibition at the Whitechapel Art Gallery, London (29 May - 6 July 1972)."
-    credit: "
-Courtesy of the Whitechapel Gallery Photo: Michael Dunn"
+    credit: "Courtesy of the Whitechapel Gallery Photo: Michael Dunn"
     alt: "Music installation generating electronic music utilising the frequency of six medium size plants in their pots, exhibited at Whitechapel Art Gallery, London  "
 
   - id: "image_03_institute_of_research"
@@ -216,13 +207,13 @@ Courtesy of the Whitechapel Gallery Photo: Michael Dunn"
   - id: "image_05_john_lifton"
     src: image_05_john_lifton.jpg
     caption: "John Lifton, Green Music, 1973, installation, rack of plant sensing, signal processing, and music synthesis systems, at the Conservatory of Flowers in Golden Gate Park, San Francisco, USA, 1978."
-    credit: " © Richard Lowenberg Courtesy of the artist "
+    credit: "© Richard Lowenberg Courtesy of the artist "
     alt: "Artist John Lifton seated on the floor, looking at the camera and smiling next to a signal processor installed on a small plant at the Conservatory of Flowers in Golden Gate Park, San Francisco "
 
   - id: "image_06_harold_cohen"
     src: image_06_harold_cohen.jpg
     caption: "Harold Cohen, Amsterdam Suite 'C', 1977, lithograph from a computer-generated drawing, 73 x 56 cm. V&A: E.330-2009."
-    credit: " © Harold Cohen"
+    credit: "© Harold Cohen"
     alt: "Computer-generated drawing on paper displaying a composition of variable shapes that appear to be drawn by hand  "
 
   - id: "image_01_stephen_willats"
@@ -240,7 +231,7 @@ Courtesy of the Whitechapel Gallery Photo: Michael Dunn"
   - id: "image_03_stephen_willats"
     src: image_03_stephen_willats.jpg
     caption: "Stephen Willats, Design drawing for plastic dress Variable Sheets (Optical Shift), 1965, pencil and body colour on paper, 111 x 76 cm. V&A: E.1615-1984."
-    credit: " © Stephen Willats"
+    credit: "© Stephen Willats"
     alt: "Drawing on paper of the design for the colourful and geometrical plastic dress Variable Sheets or Optical Shift created by the artist Stephen Willats  "
 
   - id: "image_04_stephen_willats"
@@ -276,7 +267,7 @@ Courtesy of the Whitechapel Gallery Photo: Michael Dunn"
   - id: "image_01_backspace_media"
     src: image_01_backspace_media.jpg
     caption: "Backspace Media Lab and Riverside Lounge, Clink Street, London."
-    credit: " © Jon R Luini / Chime "
+    credit: "© Jon R Luini / Chime "
     alt: "Interior view of the media lab Backspace featuring three people seated on their desks and working on their computers, while two individuals are seated on the background chatting "
 
   - id: "image_02_expo_destructo"
@@ -293,10 +284,9 @@ Courtesy of the Whitechapel Gallery Photo: Michael Dunn"
 
   - id: "image_04_jenny_marketou"
     src: image_04_jenny_marketou.jpg
-    caption: "Jenny Marketou’s TaystesROOM, 2001, interactive installation, at ‘Broken Channel’ exhibition, Cornerhouse Gallery, Manchester, UK (15 November — 21 December, 2001). Commissioned by Cornerhouse Gallery  
-and Futuresonic Festival."
+    caption: "Jenny Marketou’s TaystesROOM, 2001, interactive installation, at ‘Broken Channel’ exhibition, Cornerhouse Gallery, Manchester, UK (15 November — 21 December, 2001). Commissioned by Cornerhouse Gallery and Futuresonic Festival."
     credit: "Courtesy of Future Everything"
-    alt: "Interactive installation featuring a desk with a computer-based work surrounded by a set of vertically arranged mirrors, exhibited at Cornerhouse Gallery, Manchester "
+    alt: "Interactive installation featuring a desk with a computer-based work surrounded by a set of vertically arranged mirrors, exhibited at Cornerhouse Gallery, Manchester"
 
   - id: "image_05_bring_your_beamer"
     src: image_05_bring_your_beamer.jpg
@@ -313,7 +303,7 @@ and Futuresonic Festival."
   - id: "image_07_anna_ridler"
     src: image_07_anna_ridler.jpg
     caption: "Anna Ridler. Laws of Ordered Form (2020—Ongoing), video and dataset, 30 min, at Media Wall, Photographers’ Gallery, London (3 February — 30 July 2020)."
-    credit: " © Kate Elliot, 2020 "
+    credit: "© Kate Elliot, 2020 "
     alt: "Square media wall showcasing a set of four photographs of landscapes part of a video work exhibited at the Photographers’ Gallery, London "
 
   - id: "image_08_agnes"
