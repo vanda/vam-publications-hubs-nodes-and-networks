@@ -7,7 +7,7 @@ figure_list:
     alt: "Computer-generated print on paper showing eight diagonal lines formed of shorter vertical lines of varying length"
 
   - id: "test-image"
-    src: "test-img.jpg"
+    src: test-img.jpg
     caption: "This is a test"
     credit: "Siobhan"
     alt: "Testing 123"
