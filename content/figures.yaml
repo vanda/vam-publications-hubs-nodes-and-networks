@@ -37,7 +37,7 @@ figure_list:
     alt: "Interactive prototype of a data visualisation model demonstrating the Computer Arts Society’s global network from 1968 to 1985"
 
   - id: "image_01_analivia_cordeiro"
-    src: image_01_analivia_cordeiro.jpg
+    src: ac/image_01_analivia_cordeiro.jpg
     caption: "Analivia Cordeiro. M3x3, 1973, computer-based video dance, mono-channel video 4:3 (black and white, sound), video version: 9:41 min, 16mm film version:12:11 min, video still frame. V&A: E.695-2017"
     credit: "© Analivia Cordeiro"
     alt: "Still from video featuring nine dancers performing a computer-generated choreography The dancers wear black customes with white lines against a white background with black lines"
