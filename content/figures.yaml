@@ -205,7 +205,7 @@ figure_list:
     alt: "Artist John Lifton working with the music synthetisers of his Green Music installation at the Conservatory of Flowers in Golden Gate Park, San Francisco"
 
   - id: "image_05_john_lifton"
-    src: jl;/image_05_john_lifton.jpg
+    src: image_05_john_lifton.jpg
     caption: "John Lifton, Green Music, 1973, installation, rack of plant sensing, signal processing, and music synthesis systems, at the Conservatory of Flowers in Golden Gate Park, San Francisco, USA, 1978"
     credit: "© Richard Lowenberg Courtesy of the artist"
     alt: "Artist John Lifton seated on the floor, looking at the camera and smiling next to a signal processor installed on a small plant at the Conservatory of Flowers in Golden Gate Park, San Francisco"
@@ -236,8 +236,8 @@ figure_list:
 
   - id: "image_04_stephen_willats"
     src: image_04_stephen_willats.jpg
-    caption: "PAIR WITH Image 05_Stephen Willats, Visual Homeostat No.1"
-    credit: ""
+    caption: ""
+    credit: "Courtesy of the artist"
     alt: "Large scale wooden light installation featuring 40 circular lights that activate intermediately in response to the audience’s behaviour, displayed across five vertical structural panels"
 
   - id: "image_05_stephen_willats"
