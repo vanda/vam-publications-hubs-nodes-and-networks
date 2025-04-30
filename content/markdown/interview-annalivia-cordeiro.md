@@ -1,5 +1,5 @@
 ---
-title: "Interview: Annalivia Cordeiro"
+title: "Interview: Analivia Cordeiro"
 layout: essay
 order: 400
 ---
@@ -16,7 +16,7 @@ In 1973, my life radically changed when my father, the artist Waldemar Cordeiro,
 
 During 1974, I was invited to be part of a seminar for the Art and Science programme at the Bezalel Academy of Arts and Design in Jerusalem which was organized by the cybernetician and computer artist Vladimir Bonačić. It was an interesting experience because I was by far the youngest person attending. I met the artist John Whitney who was 72 at that time and became friends with the artist Herbert Franke. His English was not good and mine was worse, but we developed a nice friendship. When I came back to Brazil, we exchanged letters, and communicating by post took months of course. 
 
-I also had a very good relationship with the cybernetician Gordon Pask. He was a very intelligent person with a flexible mind. I had dinner at his house, and we talked about education. I only met John Lansdown once and we did not have the time to discuss culture, but in 1977 he wrote a paper about computers and choreography, and he mentioned my practice as an example of pioneering work.** 
+I also had a very good relationship with the cybernetician Gordon Pask. He was a very intelligent person with a flexible mind. I had dinner at his house, and we talked about education. I only met John Lansdown once and we did not have the time to discuss culture, but in 1977 he wrote a paper about computers and choreography, and he mentioned my practice as an example of pioneering work. 
 
 **PA:** Since early on in your career, you have taken part in different events and exhibitions such as ‘INTERACT. Machine: Man: Society’ (1973), organized by the Computer Arts Society (CAS) for the Edinburgh International Festival; the ‘Latin America 74’ exhibition at the Institute of Contemporary Art (ICA), London (1973); and the ‘Art and Science’ programme at the Bezalel Academy of Arts and Design, Jerusalem (1974). Could you tell us about these and other events that were both memorable and important in establishing the circle that your practice originates from, or that further raised the profile of your community of practice?
 

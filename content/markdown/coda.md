@@ -1,5 +1,5 @@
 ---
-title: "Coda"
+title: "From Cybercafés to Institutions"
 layout: essay
 order: 1400
 contributor:
@@ -39,7 +39,7 @@ Following the post-internet turn, artists increasingly sought to express the mat
 
 Complementing the new type of studios mentioned above were artist-led galleries that created exhibition and screening opportunities in London. Examples include Lima Zulu (2000–16) in Manor House, co-run by curator Ben Vickers; Banner Repeater (2010–present) in Hackney Downs train station, founded by artist Ami Clarke; and Gossamer Fog (2016–present), founded by artist Samuel Capps in Deptford, which has recently launched a virtual production studio. At the same time, certain studios have also been key in incubating more spontaneous and inventive events, such as the series of Bring Your Own Beamer (BYOB) one-night exhibitions hosted by SPACE Media Arts in 2013 and 2017,[^22] in which artists projected their interactive projects to an informal audience. 
 
-{% figure '_06_michele_gabriele' %}
+{% figure 'image_06_michele_gabriele' %}
 
 Running in parallel to these various efforts, art institutions created new posts and launched more experimental programmes to present the work of artists exploring the social effects of network technology. Examples include the curated club nights organized by the ICA’s Director of Live and Digital, Vivienne Gaskin (1996–2006); the inaugural appointment of Katrina Sluis as Senior Curator of Digital Programmes at the Photographers’ Gallery (2011–9); the launch of the Open Data Institute’s (ODI) Data as Culture art programme (2014–present), directed by Hannah Redler Hawes;[^23] and Serpentine Galleries’ first digital commission *AGNES* (2014–9) by artist Cécile B. Evans,[^24] which was overseen by Serpentine’s first digital art curator Ben Vickers, of Lima Zulu. 
 
