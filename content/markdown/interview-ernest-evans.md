@@ -16,33 +16,33 @@ That is my background, but to answer your question, in 1967 I took a job as a re
 
 **EE:** Without question, I consider that the Constructivist tradition was really the artistic direction that led to what we are discussing now and if you read the writings of the people at the University of Stuttgart from the 1960s, you'll see that this tradition was very influential. If we look at the UK scene in the 1940s, it turned out to be crucial because there was a group of artists before computers that were applying procedures to make their art. In particular, the artists Kenneth and Mary Martin and others around them. They devised the procedure that generated the art. The physical appearance of the artwork wasn’t something that the artist decided, the aesthetics emerged from decisions about the procedures. Kenneth once said to me that he wished he was younger because then he could have used computers.
 
-{% figure 'image_01_gillian_wise' %}
+{% figure 'image-01-gillian-wise' %}
 
 Following those artists, a group, including some of their students, formed the Systems Group. The ‘Systems’  exhibition (1972)  at Whitechapel Gallery, curated by Nicholas Serota, featured the work of the group and toured across the UK including to Leicester. These artists often used mathematics and geometry as the baseline for their work. The artists Malcolm Hughes and Jeffrey Steele were key in putting together the group. In a way, their work was directly leading towards using software for making art and it is important to note the vision they had. Jeffrey was lecturing at Portsmouth Polytechnic and proposed in the late 1960s buying a computer for the Art Department but failed to persuade them. However, a few years later, Malcolm succeeded in convincing the Slade School of Fine Art, in London, to buy a computer. Neither Malcolm nor Jeffrey were computer programmers, but they thought this was important for the future. Malcolm started the Experimental Department at the Slade in 1972.  
 
 During the 1960s, there were many events across the world that catalyzed the use of computers in the arts. In 1965, the mathematician George Nees and computer scientist Frieder Nake presented their computer art in the exhibition ‘computer grafik’ at the University of Stuttgart. That year, the Howard Wise Gallery in New York showed the work of the neuroscientist Béla Julesz and engineer A. Michael Noll in the exhibition ‘Computer-Generated Pictures’. From the UK point of view, Jasia Reichardt organized the ‘Cybernetic Serendipity’ show at the Institute of Contemporary Arts (ICA) in London during 1968. Before that, she had met the philosopher Max Bense who taught at the University of Stuttgart, and proposed that the future were computers. The Computer Arts Society (CAS) was also formed in August that year. 
 
-{% figure 'image_02_frieder_nake' %}
+{% figure 'image-02-frieder-nake' %}
 
-{% figure 'image_03_michael_noll' %}
+{% figure 'image-03-michael-noll' %}
 
 In terms of my own work, at that time I was moving from making art that was about abstractions to the abstract. By abstractions, I mean using elements like landscapes or flowers, whereas in the abstract work, I was interested in more geometric and minimalistic forms of the Constructivist tradition. In 1968, I had just taught myself how to write computer programs. I decided to make an artwork that summarized what I had been doing in the previous ten years. The work is titled *Nineteen* (1968–9) and it is composed of 20 square reliefs. I was finding it difficult to decide how to arrange the composition. I realized that I could write down the rules and use them to write a computer program to work out the arrangement. It turned out that it was practically difficult to do this, because Leicester Polytechnic only had one computer. But I managed to get three hours with the computer to run my program and find a solution. 
 
 I wanted to use spray paint to apply colour in my compositions to avoid brush marks. I was looking for help to do this and crossed the road to the Art Department where I found the artist Stroud Cornock in charge of a spray booth. He helped me with the painting but he was more interested in the fact that I was using a computer program to work out the compositional arrangement. He had previously been working with the artist Roy Ascott and was inspired by these new technologies. After that, we became good friends and collaborators. 
 
-{% figure 'image_04_ernest_edmonds' %}
+{% figure 'image-04-ernest-edmonds' %}
 
 **PA:** I know you worked with Stroud Cornock on several projects, including *DataPack* (1970). Could you tell us about this collaboration and the development it brought to your practice?
 
 **EE:** In 1969, Stroud and I wrote the paper ‘The Creative Process Where the Artist is Amplified or Superseded by the Computer’*,* which we saw as a manifesto. We presented it in 1970 and it was published in the journal *Leonardo* in 1973. One of our key points was that the future of art with computers would be interactive. This was before the personal computer. That year, 1970, we had the opportunity to show *DataPack* in the ‘Computer Graphics 70’ exhibition. They hosted the show alongside the conference, and we thought it would be an ideal space to present the type of interactive artwork we proposed in our paper presented at that conference. We designed and built the piece. It would not look too exciting today, but it was what was possible with the technology of that time. It demonstrated the potential of interactive art where you turned the audience into a participatory element of the creative process and gave them agency to influence the work. *DataPack* used a teletype allowing typed data to be sent to a computer. The participants used the teletype to have a ‘conversation’ with the computer. The computer program I wrote used the data from the conversation to draw an image in response to the individual interaction utilizing a graph plotter which operated a pen, a drawing machine, much different from the typical printers we have nowadays. The images were produced using data from the plans of the Vickers building [now known as the Millbank Tower], next to Tate Modern. The program allocated space inside or around the building based on the conversation. The work was called *DataPack* because we gave each participant a plastic folder with a copy of their dialogue and the image that was generated especially for them. 
 
-{% figure 'image_05_ernest_edmonds' %}
+{% figure 'image-05-ernest-edmonds' %}
 
 **PA:** Can you tell me about your work *Communications Games* (1971) from around that time?
 
 **EE:** I was very interested in the fact that the computer provided me with new ideas and ways to make art. I did not think of it as a tool, but as a new medium that opened opportunities to look at new art forms. I was also interested in psychology and systems theory. For *Communications Game*, I started to investigate psychology and to learn about language, communication methods and behaviour. In this work, I saw the opportunity to produce a networked experience where several people could interact with one another through the artwork. It was before the internet, so I designed an electronic circuit which I physically assembled to produce a network of six stations for the participants. The challenge of just using lights and switches for the interactions was to enable it to feel meaningful rather than random. I built later versions for exhibitions in 1973 and beyond. Later versions were shown, for example, in 1990 in ‘Art Creating Society’ at what used to be called the Museum of Modern Art, Oxford, and in 2015 in ‘Primary Codes’ at Oi! Futuro, Rio de Janeiro.
 
-{% figure 'image_06_ernest_edmonds' %}
+{% figure 'image-06-ernest-edmonds' %}
 
 **PA:** Do you consider some of these ideas to be applicable to more recent interactive works, such as *Shaping Form* (2007), which is in the V&A’s Digital Art Collection?
 
@@ -50,7 +50,7 @@ I wanted to use spray paint to apply colour in my compositions to avoid brush ma
 
 More recently, I have been working on extensions of *Communications Game*, utilizing the internet and ideas from *Shaping Form*: *the* *Cities Tango* series. For example, in 2021, I developed a piece for the British Pavilion in the Dubai Expo that connected that space with the streets of Leicester. I used cameras and screens to create one station in each location, so people from Dubai could interact with the people in Leicester through colour and images. In this work, the audience keeps influencing the work as the program continues to learn and evolve over time. Most of my recent work links interactive art with communication technologies.
 
-{% figure 'image_07_ernest_edmonds' %}
+{% figure 'image-07-ernest-edmonds' %}
 
 **PA:** Conceptually, artificial intelligence has played an important role in your work, and you have written extensively about this topic. These themes can be found in the *Shaping Form* series and in your collaborative work with the cognitive scientist Margaret A. Boden. It would be fantastic to hear more about this collaboration. 
 

@@ -12,7 +12,7 @@ Analivia Cordeiro (b. 1954, Brazil) is an artist, dancer and choreographer known
 
 In 1973, my life radically changed when my father, the artist Waldemar Cordeiro, passed away unexpectedly in his sleep at the age of 48. But I continued my work and in August that year, I premiered *M3x3* at the ‘INTERACT. Man: Machine: Society’* exhibition and conference which was part of the Edinburgh International Festival. I did not attend the event, but I sent the film by post with the paper 'A Language for Dance’ (1973) which is part of the V&A collection. The architect John Lansdown presented the paper and the film on my behalf at the conference.
 
-{% figure 'image_01_analivia_cordeiro' %}
+{% figure 'image-01-analivia-cordeiro' %}
 
 During 1974, I was invited to be part of a seminar for the Art and Science programme at the Bezalel Academy of Arts and Design in Jerusalem which was organized by the cybernetician and computer artist Vladimir Bonačić. It was an interesting experience because I was by far the youngest person attending. I met the artist John Whitney who was 72 at that time and became friends with the artist Herbert Franke. His English was not good and mine was worse, but we developed a nice friendship. When I came back to Brazil, we exchanged letters, and communicating by post took months of course. 
 
@@ -28,7 +28,7 @@ For the recording of this video, a computer generated the instructions to assemb
 
 After that, I met Jorge Glusberg, director of Centro de Arte y Comunicación (CAyC), in Buenos Aires. He selected the work of artists, including mine, and presented it in New York and across Europe in countries like Italy, Belgium and France, and in London at the ICA. These exhibitions raised awareness of the exchanges between art and technology and presented the aesthetic propositions of a collective of artists. CAS and CAyC cemented the foundations of today’s digital art practices. I was very lucky to be part of those groups. 
 
-{% figure 'image_02_analivia_cordeiro' %}
+{% figure 'image-02-analivia-cordeiro' %}
 
 **PA:** Around the period these events took place, the early 1970s, what specific vocabulary was being used to describe digital art? It would be good to hear about that, considering how terminologies have been used and changed across different periods.   
 
@@ -42,21 +42,21 @@ Digital art is no longer sufficient to address this type of art, and it could be
 
 Future spectators will be challenged to understand and visually absorb this structure, but visualisation is changing, and we will change. People will need more accuracy to understand and memorize similar images.
 
-{% figure 'image_03_analivia_cordeiro' %}
+{% figure 'image-03-analivia-cordeiro' %}
 
 **PA:** Over the years, you have collaborated with different individuals across the UK and internationally, including Vladimir Bonačić, John Lansdown and Nilton Lobo. Could you tell us about these collaborations and the expertise they have brought to your practice?  
 
 **AC:** As I mentioned, Lansdown was fundamental: his invitation to ‘INTERACT’ and the collaboration that generated was what brought me into this world. Before him, I met Bonačić. He came to Brazil in 1971 for the exhibition ‘Arteônica’ that my father organized in São Paulo. I was then a first-year student at the Architecture and Urbanism College at the University of São Paulo. During his visit, I showed him mathematical visual studies that I had done utilizing lines and dots. He then introduced me to the concept of random choice which was shaping the aesthetic of that moment and was very important for programming my work. These ideas helped me consider how to program my choreographies defining the different body positions.
 
-{% figure 'image_04_vladimir_bonacic' %}
+{% figure 'image-04-vladimir-bonacic' %}
 
 I went to New York in 1977 and studied under the dancer and choreographer Merce Cunningham. After that, I came back to Brazil and developed the second phase of my work dedicated to the notation of movement. It is unbelievable but still today there is not an established efficient and easy method to write movements like we have with music. Over the years, dance history has been lost because of this reason. At that point, I was looking for a collaborator and went to the University of São Paulo. In January 1983, the director of the Computer Science Department introduced me to the engineer Nilton Lobo. We began our collaboration, and we got married in 1993. We now have a son who is part of our family research unit. 
 
 The first thing that I have to say is that I consider Nilton a co-author, because technical experts not only support the work, but they also shape the work with their perspective. They give the work future possibilities. I believe all artists should consider technicians as co-authors.
 
-{% figure 'image_05_analivia_cordeiro' %}
+{% figure 'image-05-analivia-cordeiro' %}
 
-{% figure 'image_06_nilton_lobo' %}
+{% figure 'image-06-nilton-lobo' %}
 
 In the beginning, I had a vision of programming human movement into the computer. The work we have done is pioneering motion capture, as there was nothing available to do this before. To be a pioneer means that you find ways to transform ideas that do not exist into reality. Through our research on trajectory notation, I studied the single frames of a film and identified 24 joints of the body’s limbs per frame. The video contained 30 frames per second and this exercise produced thousands of body movements. Nilton made the program that transformed that information into 2D figures that we used to generate 3D computer figures. This whole process resulted in a motion-capture system called Nota-Anna.
 
@@ -74,13 +74,13 @@ In terms of software, Photoshop created great freedom and QuickTime allowed the 
 
 **AC:** Historically, Brazil was not a technology driven country, but I had my father. When he was alive, he gave me access to information and books about computer art and theorists like the engineer and philosopher Abraham Moles. These ideas provided me with a clear direction to understand technological contexts and my place within them. Another theorist is Jonathan Benthall from the ICA, London, who had a very unique and humanistic perspective about technology and culture. His book *Science and Technology in Art Today* (1972) was very influential for the field. 
 
-{% figure 'image_07_waldemar_cordeiro' %}
+{% figure 'image-07-waldemar-cordeiro' %}
 
 Additionally, I had a very special education with the choreographer Maria Duschenes under the Rudolf Laban dance method. Laban was a theoretician who analyzed the language of human body movement through its elements and established the relationship between those elements. He was very important to my work, because this method allowed me to understand body movements in order to program them on the computer.
 
 Another influential figure was the artist, designer and choreographer Oskar Schlemmer, who was a tutor at the Bauhaus. I love his work. One day, Mrs Duschenes took us to see the film of his *Triadic Ballet* from 1922 at the Goethe Institut, in São Paulo, and I started intuitively learning from his work by dancing and imitating the movement of his dancers. When I was 12, I also met the artist John Cage, and Merce Cunningham. These artistic experiences and my research drove me to seek new aesthetics. I think that a new media requires a new aesthetic. You can see these new languages of video and body movements in my three videos *M3x3*, *0=45°* (1974)* and *Cambiantes* (1976). 
 
-{% figure 'image_08_kinetic_spectacle' %}
+{% figure 'image-08-kinetic-spectacle' %}
 
 **PA:** Finally, could you speak about the conceptual framework of your work and how it has evolved over the years?
 
@@ -90,7 +90,7 @@ Artists were part of a counter-culture movement and many questions that emerged 
 
 At first glance, you can think that I was trying to solve practical problems of how to coordinate the video camera with human movement in dance production. That was one of the objectives of my early research, but the second phase focused on how to write body movements. Behind these practical problems there is deeper research concerning the future of humans and the behaviour of humans with technology. In *M3x3* I approached this question by establishing body positions through notational figures. The dancers then learnt the positions and created the link between the positions in order to produce the choreography. In this way, the dancers were emotionally involved by making individual decisions on the movements and could express themselves creating the transitions between positions. I never saw the dancer in this process as an animation or an avatar. 
 
-{% figure 'image_09_analivia_cordeiro' %}
+{% figure 'image-09-analivia-cordeiro' %}
 
 Nowadays, the challenge for younger generations is how to exist and express themselves individually in the middle of the infinite stream of rules that manage our daily lives. For example, today you must fit all your messages inside the rectangular shape of screens, otherwise you lose them. This is a big limitation for our brain. If I owned a technology company, I would invent and distribute screens in round, square and polygonal shapes, so people could be freer to feed their ideas to the screen. 
 
@@ -98,4 +98,4 @@ Another element that is important to my work is spontaneity: I always propose to
 
 A final element of my work is the relationship between humans and their surroundings. In my first work *M3x3*, I merged the human body with the scene as a way to signify that we are one with nature. This is an idea that I applied to succeeding artworks. Through my work, I invite the audience not to oppose the environment but to work with it. Some people destroy the environment for profit, but there is a limit to what money can provide if we don’t have a proper natural world.
 
-{% figure 'image_10_analivia_cordeiro' %}
+{% figure 'image-10-analivia-cordeiro' %}

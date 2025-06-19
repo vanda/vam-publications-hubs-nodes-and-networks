@@ -13,7 +13,7 @@ Remarkably, in 1958, I found myself working at Drian Galleries, in London, as a 
 
 Not many people came to the gallery, so I had plenty of free time. My father was an archivist and he managed to get books from the library that he passed to me. I read books by the philosophers Maurice Merleau-Ponty, Marshall McLuhan and the sociologist Basil Bernstein. Through them, I began to realize that the construction of the world was ideological and that the world I lived in could be different, and people could behave and socialize differently. I figured that instead of having vertical social hierarchies, there could be horizontal networks. When I was not reading, I drew sketches on how the gallery could function as a space, trying to improve the visitor experience. I thought we had all these fabulous exhibitions happening and nobody was coming. Through this analysis, it seemed to me that artworks demand at least two factors, person A and person B. In other words, there had to be a network of exchanges for the exhibition to really operate and have some meaning in the wider world.
 
-{% figure 'image_01_stephen_willats' %}
+{% figure 'image-01-stephen-willats' %}
 
 Another book my father gave me was *Mechanization of Thought Processes* (1958), based on a symposium that was organized by the National Physical Laboratory, in England, on the fundamentals of artificial intelligence (AI) and neural systems, and cybernetics as a philosophical and language modelling tool. Many significant practitioners attended this symposium such as the neurophysiologist and robotician William Grey Walter, the computer scientist Marvin Minsky, the cybernetician Gordon Pask and the scientist Heinz von Foerster. 
 
@@ -25,7 +25,7 @@ One day, Gordon Pask came to give a lecture. Not many students knew about his wo
 
 In my case, in 1963, I went to work at the System Research Lab, in Richmond, where I met the cybernetician George Mallen and the mathematician Peter Whittle. This opened possibilities for creating a totally new language for artists. In artistic movements like Cubism and Futurism, artists were encoding reality through a language of objects. Whereas cybernetics presented a language that described a world based on the flow of information. I did not want to make pictures of cybernetics, I wanted to use it as a framework for engineering interactive simulation. Systems Research was significant for this process. Whittle was one of the early people using digital programs for electronic engineering and we discussed how I could build something. Then I met Chris Grimshaw, who was running a lab in Oxford, and he took over these discussions. Around this time, I developed a series of works based on the idea of cooperative behaviour that led to the creation of my work *Visual Homeostat* (1966–9).* This work is composed of two units which were coupled through photoelectric cells and an ultrasonic environment. The units were quite large, around 1.83 metres high by 3.65 metres wide, and the work was shown in a dark environment. As soon as the work detected someone within its ultrasonic field, it turned itself on and ran a program of lights which followed sequences over a mesh. The speed of the lights was reactive to the audience’s presence and they could also interfere with the activity between the units by standing between them and by doing so, triggering different programs. I made those works for a project at Tate that never took place. 
 
-{% figure 'image_02_stephen_willats' %}
+{% figure 'image-02-stephen-willats' %}
 
 **PA:** Since early in your career, you have taken part in different events and exhibitions such as ‘Electric Theatre’, Institute of Contemporary Arts (ICA), London (1971); *‘*INTERACT Machine: Man: Society’ (1973), organized by the Computer Arts Society (CAS) for the Edinburgh International Festival; and ‘Structures and Codes’*,* Royal College of Art, London (1975). Could you tell us about these and other events that were both memorable and important in establishing the creative circle that your practice originates from, or that further raised the profile of your community of practice?  
 
@@ -35,23 +35,23 @@ Around that time, in 1965, I started *Control* magazine and made clothing like t
 
 I was part of this milieu. I met John Sharkey who was a concrete poet and also worked at the ICA. There was also a group of people who organized with Gustav Metzger the ‘Destruction in Art Symposium’ (1966). I was part of that team and helped to create the promotional materials. I also wrote an essay for a presentation, *The Mechanistic Crisis,* which looked at decision-making and problem-solving within hierarchical linear and self-organizing systems. The idea was that this symposium would bring people together just like ‘Mechanization of Thought Processes’ did for cybernetics at a time where the art world was becoming increasingly politicized with Marxism, determinism and anarchism. It was a very interesting period, but also became frightening as the 1960s progressed because people were becoming somewhat paranoid.
 
-{% figure 'image_03_stephen_willats' %}
+{% figure 'image-03-stephen-willats' %}
 
 **PA:** Around the period these events took place, what specific vocabulary was being used to describe digital art? It would be good to hear about that, considering how terminologies have changed across different periods.  
 
 **SW:** That was a problem, because I have been in many exhibitions with many different terminologies. Including ‘Kunst Licht Kunst’ (1966) at the Stedelijk van Abbemuseum in Eindhoven, which was a major exhibition of light art, and ‘Kinetic four dimensional’ (‘K.4’) (1967) which took place at Brighton Festival and involved the designer Philip Steadman, who had placed particular emphasis in the field of kinetic art and concrete poetry. As well as, in London, the ICA’s ‘Electric Theatre’ (1971) and Hayward Gallery’s ‘Kinetic Art’ (1970)*,* where I presented *Visual Homeostatic Information* (1969–70). I found myself positioned and presented as a kinetic artist, which made me feel very uncomfortable because I was doing something quite different. After the show at Hayward, in the early 1970s, I set up the Centre for Behavioural Art at Gallery House, in London, and did the *Cognition Control* project (1972) at the Museum of Modern Art, in Oxford [now Modern Art Oxford], and Midland Group Gallery, in Nottingham. Around that period, education became part of my life again. I taught in Fine Art Departments, full time at Nottingham College of Art and Design [now Nottingham Trent University] and as visiting lecturer in universities across Exeter, Hornsey, Leeds, Leicester, Liverpool and Newport. I also worked part time at Leicester Polytechnic [now De Montfort University] where I contributed to the ‘Invention of Problems’ symposium they were running in 1971. There were interesting things happening in the Midlands in the early 1970s and, specifically, there was a group of people concerned with what we now call digital art.
 
-{% figuregroup '2', 'image_04_stephen_willats, image_05_stephen_willats' %}
+{% figuregroup '2', 'image-04-stephen-willats, image-05-stephen-willats' %}
 
-{% figure 'image_06_stephen_willats' %}
+{% figure 'image-06-stephen-willats' %}
 
 **PA:** Are there any specific individuals who were based in the UK that have influenced or supported your practice, or who you consider to have made key contributions to the UK digital art ecosystem?
 
 **SW:** To be truthful, I made it because I had this fortunate experience of meeting all these artists very early on. I didn't really look to any other people for models; I thought I could make my own and did not want to emulate anyone else. Creating and working on *The Social Resource Projects* (1972–3), *The Edinburgh Social Model Construction Project* (1973) or *Visual Meta Language Simulation* (1971–2), and later *Meta Filter* (1973–5)*,* was thrilling because nobody's ever done anything like that before. I believe art should create precedents and move on. Of course, I have met many people throughout my life, especially in the early 1970s when we set up the Centre of Behavioural Art at Gallery House. We had people from different disciplines like the mathematician Robert Bell and George Mallen presenting papers and I met European and Latin American artists. 
 
-{% figure 'image_07_stephen_willats' %}
+{% figure 'image-07-stephen-willats' %}
 
-{% figure 'image_08_stephen_willats' %}
+{% figure 'image-08-stephen-willats' %}
 
 **PA:** We have spoken about some of the communities and groups in the UK that you have been part of, from counter-culture to CAS and the Auto-destructive art group. Could you expand on these and other art communities in the UK and globally that you belong to, that have been influential to the development of your practice?
 
