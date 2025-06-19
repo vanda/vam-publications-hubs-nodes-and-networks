@@ -1,30 +1,30 @@
 figure_list:
 
-  - id: "image_01_norma_tamburini"
+  - id: "image-01-norma-tamburini"
     src: image_01_norma_tamburini.jpg
     caption: "Norma Tamburini, Untitled, c. 1968, computer generated print on paper, 108 x 30 cm. V&A: E.2715-2016"
     credit: "Given by the Computer Arts Society, supported by System Simulation Ltd, London"
     alt: "Computer-generated print on paper showing eight diagonal lines formed of shorter vertical lines of varying length "
 
-  - id: "image_02_poster_cybernetic"
+  - id: "image-02-poster-cybernetic"
     src: image_02_poster_cybernetic.jpg
     caption: "Poster of 'Cybernetic Serendipity' exhibition, Institute of Contemporary Arts, London (2 August — 20 October 1968). Designed by Franciszka Themerson"
     credit: "© Cybernetic Serendipity 1968 "
     alt: "Promotional poster of the exhibition ‘Cybernetic Serendipity’ showcasing a robot and a geometrical composition alongside the list of participants"
 
-  - id: "image_03_peter_zinovieff"
+  - id: "image-03-peter-zinovieff"
     src: image_03_peter_zinovieff.jpg
     caption: "Peter Zinovieff's Studio at the 'Cybernetic Serendipity' exhibition, Institute of Contemporary Arts, London, (2 August — 20 October 1968)"
     credit: "© Cybernetic Serendipity 1968 "
     alt: "Technological equipment from Peter Zinovieff's electronic music studio staged at the exhibition ‘Cybernetic Serendipity’"
 
-  - id: "image_04_gordon_pask"
+  - id: "image-04-gordon-pask"
     src: image_04_gordon_pask.jpg
     caption: "Gordon Pask, Colloquy of Mobiles, 1968. Installation view: 'Cybernetic Serendipity' exhibition, Institute of Contemporary Arts, London, (2 August — 20 October 1968)"
     credit: "© Cybernetic Serendipity 1968 "
     alt: "Interactive installation with five computer-controlled fiberglass sculptural mobiles presented at the exhibition ‘Cybernetic Serendipity’"
 
-  - id: "image_05_event_one"
+  - id: "image-05-event-one"
     src: image_05_event_one.jpg
     caption: "Invitation to ‘Event One’, Royal College of Art, London, 1969"
     credit: "Courtesy of the Computer Arts Society "
